@@ -17,7 +17,7 @@ Links: \[ [Centralized simulink model (preview)](https://github.com/luis-a-miran
 
 In order to evaluate the designed controllers and the compare a trajectory for the end effector was created, which consisted in performing a capital "L" followed by a capital "C", combining both rectilinear and circular trajectories.
 
-**Trajectory:**
+**Trajectory Characteristics:**
 Joint angles             |  Torque
 :-------------------------:|:-------------------------:
 ![](https://github.com/luis-a-miranda/UR3-robot-arm-Kinematics-Dynamics-and-Control/blob/main/images/trajectory%20joint%20angles.png)  |  ![](https://github.com/luis-a-miranda/UR3-robot-arm-Kinematics-Dynamics-and-Control/blob/main/images/trajectory%20torque.png)
@@ -31,6 +31,9 @@ Position Error             |  Orientation Error
 Position Error             |  Orientation Error
 :-------------------------:|:-------------------------:
 ![](https://github.com/luis-a-miranda/UR3-robot-arm-Kinematics-Dynamics-and-Control/blob/main/images/Decentralized%20controller%20-%20absolute%20position%20error.png)  |  ![](https://github.com/luis-a-miranda/UR3-robot-arm-Kinematics-Dynamics-and-Control/blob/main/images/Decentralized%20controller%20-%20absolute%20orientation%20error.png)
+
+
+The **maximum error** obtained with **centralized control** was approximately **0.00121 m and 0.097 rad for position and orientation**, respectively. With **decentralized controller** the maximum errors obtained were **0.036 m and 0.1 rad**, having a worse position error than the previous and a very similar orientation error.
 
 
 ### Conclusion
