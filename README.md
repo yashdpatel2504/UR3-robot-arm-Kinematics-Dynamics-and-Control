@@ -9,6 +9,8 @@ The robot arm kinematic model is built according to the Denavit-Hartenberg conve
   <img src="https://github.com/luis-a-miranda/UR3-robot-arm-Kinematics-Dynamics-and-Control/blob/main/images/ur3%20simplified%20model.png" width="300" />
 </p>
 
+Links: \[ [Centralized simulink model (preview)](https://github.com/luis-a-miranda/UR3-robot-arm-Kinematics-Dynamics-and-Control/blob/main/images/Centralized%20Simulink%20Model.png) \]
+\[ [Decentralized simulink model (preview)](https://github.com/luis-a-miranda/UR3-robot-arm-Kinematics-Dynamics-and-Control/blob/main/images/Decentralized%20Simulink%20Model.png) \]
 
 ## Results
 
