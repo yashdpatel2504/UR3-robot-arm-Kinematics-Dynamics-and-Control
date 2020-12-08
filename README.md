@@ -35,6 +35,8 @@ Position Error             |  Orientation Error
 
 The **maximum error** obtained with **centralized control** was approximately **0.00121 m and 0.097 rad for position and orientation**, respectively. With **decentralized controller** the maximum errors obtained were **0.036 m and 0.1 rad**, having a worse position error than the previous and a very similar orientation error.
 
+The same trajectory is performed at higher speed to ensure the results are valid and the centralized controller has a better performance.
+
 
 ### Conclusion
 
