@@ -4,8 +4,11 @@ UR3 is a 6-degree-of-freedom (DoF) robotic manipulator manufactured by Universal
 
 The robot arm kinematic model is built according to the Denavit-Hartenberg convention. A Decentralized PID Controller and a Centralized Inverse Dynamics Controller was designed. Finally, a trajectory is performed and the performance/results of both controllers compared and analysed.
 
+<p float="left">
+  <img src="https://github.com/luis-a-miranda/UR3-robot-arm-Kinematics-Dynamics-and-Control/blob/main/images/ur3.png" width="100" />
+  <img src="https://github.com/luis-a-miranda/UR3-robot-arm-Kinematics-Dynamics-and-Control/blob/main/images/ur3%20simplified%20model.png" width="100" />
+</p>
 
-![](https://github.com/luis-a-miranda/UR3-robot-arm-Kinematics-Dynamics-and-Control/blob/main/images/ur3.png)  |  ![](https://github.com/luis-a-miranda/UR3-robot-arm-Kinematics-Dynamics-and-Control/blob/main/images/ur3%20simplified%20model.png)
 
 ## Results
 
