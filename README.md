@@ -1,1 +1,1 @@
-# UR3-robot-arm-Kinematics-Dynamics-and-Control
+# UR3 robot arm: Kinematics, Dynamics and Control
