@@ -15,6 +15,23 @@ Links: \[ [Centralized simulink model (preview)](https://github.com/luis-a-miran
 ## Results
 
 
+In order to evaluate the designed controllers and the compare a trajectory for the end effector was created, which consisted in performing a capital "L" followed by a capital "C", combining both rectilinear and circular trajectories.
+
+**Trajectory:**
+Joint angles             |  Torque
+:-------------------------:|:-------------------------:
+![](https://github.com/luis-a-miranda/UR3-robot-arm-Kinematics-Dynamics-and-Control/blob/main/images/trajectory%20joint%20angles.png)  |  ![](https://github.com/luis-a-miranda/UR3-robot-arm-Kinematics-Dynamics-and-Control/blob/main/images/trajectory%20torque.png)
+
+**Centralized Controller Analysis:**
+Position Error             |  Orientation Error
+:-------------------------:|:-------------------------:
+![](https://github.com/luis-a-miranda/UR3-robot-arm-Kinematics-Dynamics-and-Control/blob/main/images/Centralized%20controller%20-%20Absolute%20position%20error%20.png)  |  ![](https://github.com/luis-a-miranda/UR3-robot-arm-Kinematics-Dynamics-and-Control/blob/main/images/Centralized%20controller%20-%20absolute%20orientation%20error.png)
+
+**Decentralized Controller Analysis:**
+Position Error             |  Orientation Error
+:-------------------------:|:-------------------------:
+![](https://github.com/luis-a-miranda/UR3-robot-arm-Kinematics-Dynamics-and-Control/blob/main/images/Decentralized%20controller%20-%20absolute%20position%20error.png)  |  ![](https://github.com/luis-a-miranda/UR3-robot-arm-Kinematics-Dynamics-and-Control/blob/main/images/Decentralized%20controller%20-%20absolute%20orientation%20error.png)
+
 
 ### Conclusion
 
